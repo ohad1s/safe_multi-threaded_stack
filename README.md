@@ -1,8 +1,9 @@
-# Operating-Systems-Ex4
+# safe_multi-threaded_stack
+
+Ohad Shirazi 
 
 Dvir Biton 
 
-Ohad Shirazi 
 
 how to run:
 
@@ -24,17 +25,8 @@ how to run:
 
 * the sleep in func push is just for the first time(it's for the test), do not delete that.
 
-* for the test(i have problem with the linker so instead of use doctest i craete test.cpp and send eror if the test fail).
 
-* in the push func i put sleep intentionally to see if relly is work in parallel and synchronize.
 
-* my test cheack if really it's work in parallel and synchronize(the main test is to see if the sleep in the func push in fisrt time dont hart the synchronize), to see that more clearly i suggest to use teminal and write more tests.
-
-* if you want for the 'moss' all the code you can copy from Ex4.h to server(i write them there for the order).
-
-* we did the bonus to see that you need remove from files Ex4.hpp, client.cpp, server.cpp the note (remove '//' in the place write "for the bonus...until here").
-
-(I got help in malloc and free with stackoverflow).
 
 
 
