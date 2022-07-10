@@ -9,7 +9,7 @@ how to run:
 
 1.make
 
-2.open other terminal(you need one terminal to server and other for the clients)
+2.open another terminal(you need one terminal for server and aother one for each client)
 
 3.run server by with command ./server
 
